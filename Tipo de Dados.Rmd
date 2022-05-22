@@ -1,0 +1,39 @@
+```{r}
+#declaração implicita númérico
+delta <- 8
+class(delta)
+```
+```{r}
+delta <= 8L
+class(delta)
+```
+Outros tipos
+```{r}
+logico = TRUE
+logico = F
+caractere = "Texto"
+caractere = "Texto"
+class(caractere)
+class(logico)
+```
+Operações Matemáticas 
+```{r}
+c = 2
+d = 4
+(c + d) * d
+e = (c + d) * d
+e
+```
+Testes lógicos
+```{r}
+a = 1
+b = 2
+a < b
+a == b
+```
+Raiz Quadrada
+```{r}
+sqrt(2500)
+```
+
+
